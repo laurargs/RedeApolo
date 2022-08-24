@@ -4,13 +4,13 @@
  
 |                    Responsável                      | Máquina |      IP       |
 |-----------------------------------------------------|---------|---------------|
-|[Laura Rafaelly](https://github.com/Matheus-Ataide)  | VM1-PC1 | 192.168.24.17 |
+|[Laura Rafaelly](https://github.com/laurargs)        | VM1-PC1 | 192.168.24.17 |
 |                                                     | VM2-PC1 | 192.168.24.18 |
-|[Jocineide](https://github.com/Josival)              | VM1-PC2 | 192.168.24.19 |
+|[Jocineide](https://github.com/Jocineidebb)          | VM1-PC2 | 192.168.24.19 |
 |                                                     | VM2-PC2 | 192.168.24.20 |
-|[Rayane](https://github.com/mariaclaraleao)         | VM1-PC3 | 192.168.24.21 |
+|[Rayane](https://github.com/Rayane012)               | VM1-PC3 | 192.168.24.21 |
 |                                                     | VM2-PC3 | 192.168.24.22 |
-|[Kauan](https://github.com/mariaclaraleao)          | VM1-PC4 | 192.168.24.23 |
+|[Kauan](https://github.com/kauan0nog)                | VM1-PC4 | 192.168.24.23 |
 |                                                     | VM2-PC4 | 192.168.24.24 |
 
 ## Configuração do serviço de nomes estáticos
