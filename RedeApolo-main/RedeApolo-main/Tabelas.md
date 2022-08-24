@@ -1,6 +1,6 @@
 # PROJETO E INFRAESTRUTURA DE REDES - GRUPO 2  - 924
 
-                              ### Tabela 1: Responsáveis por máquina e Designação dos respectivos endereços IPs 
+                               ###Tabela 1: Responsáveis por máquina e Designação dos respectivos endereços IPs 
 
                               |                    Responsável                      | Máquina |      IP       |
                               |-----------------------------------------------------|---------|---------------|
