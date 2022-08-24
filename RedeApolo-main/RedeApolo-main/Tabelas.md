@@ -1,17 +1,17 @@
-# PROJETO E INFRAESTRUTURA DE REDES - GRUPO 6  - 924
+# PROJETO E INFRAESTRUTURA DE REDES - GRUPO 2  - 924
 
 ### Tabela 1: Responsáveis por máquina e Designação dos respectivos endereços IPs 
  
 |                    Responsável                      | Máquina |      IP       |
 |-----------------------------------------------------|---------|---------------|
-|[Matheus Ataide](https://github.com/Matheus-Ataide)  | VM1-PC1 | 192.168.24.81 |
-|                                                     | VM2-PC1 | 192.168.24.82 |
-|[Josival Costa](https://github.com/Josival)          | VM1-PC2 | 192.168.24.83 |
-|                                                     | VM2-PC2 | 192.168.24.84 |
-|[Clara Leão](https://github.com/mariaclaraleao)      | VM1-PC3 | 192.168.24.85 |
-|                                                     | VM2-PC3 | 192.168.24.86 |
-|Outro cara                                           | VM1-PC4 | 192.168.24.87 |
-|                                                     | VM2-PC4 | 192.168.24.88 |
+|[Laura Rafaelly](https://github.com/Matheus-Ataide)  | VM1-PC1 | 192.168.24.17 |
+|                                                     | VM2-PC1 | 192.168.24.18 |
+|[Jocineide](https://github.com/Josival)              | VM1-PC2 | 192.168.24.19 |
+|                                                     | VM2-PC2 | 192.168.24.20 |
+|[Rayane](https://github.com/mariaclaraleao)         | VM1-PC3 | 192.168.24.21 |
+|                                                     | VM2-PC3 | 192.168.24.22 |
+|[Kauan](https://github.com/mariaclaraleao)          | VM1-PC4 | 192.168.24.23 |
+|                                                     | VM2-PC4 | 192.168.24.24 |
 
 ## Configuração do serviço de nomes estáticos
 
