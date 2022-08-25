@@ -16,9 +16,9 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 # 
 
 ### Projeto segundo bimestre 
-- [Visualização geral do projeto](https://github.com/laurargs/TrabalhoRedes/blob/main/Projeto/README.md)
-- [Tabelas de definições de nomes e IPs para todas as VMs](https://github.com/laurargs/TrabalhoRedes/blob/main/Tabelas.md)
-- [Topologia de Rede](https://github.com/laurargs/TrabalhoRedes/blob/main/Topologia%20de%20Rede.md)
-- [Topologia Física]()
+- [Visualização geral do projeto](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Projeto/README.md)
+- [Tabelas de definições de nomes e IPs para todas as VMs](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Tabelas.md)
+- [Topologia de Rede](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Topologia%20de%20Rede.md)
+- [Topologia Física](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Parte%20F%C3%ADsica.md)
 
 #
