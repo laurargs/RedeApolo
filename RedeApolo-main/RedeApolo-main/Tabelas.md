@@ -2,6 +2,7 @@
 
                                ###Tabela 1: Responsáveis por máquina e Designação dos respectivos endereços IPs 
 
+                               -------------------------------------------------------------------------------
                               |                    Responsável                      | Máquina |      IP       |
                               |-----------------------------------------------------|---------|---------------|
                               |[Laura Rafaelly](https://github.com/laurargs)        | VM1-PC1 | 192.168.24.17 |
@@ -12,6 +13,7 @@
                               |                                                     | VM2-PC3 | 192.168.24.22 |
                               |[Kauan](https://github.com/kauan0nog)                | VM1-PC4 | 192.168.24.23 |
                               |                                                     | VM2-PC4 | 192.168.24.24 |
+                               -------------------------------------------------------------------------------
 
 ## Configuração do serviço de nomes estáticos
 
@@ -33,13 +35,13 @@
         ```
 
 ```
-Tabela 3: PC's físicos reservados para cada máquina
--------------------------------
-|  DESCRICAO  |   PC FÍSICO   |
--------------------------------
-|     PC1     | LAB 1 - PC 09 |
-|     PC2     | LAB 1 - PC 10 | 
-|     PC3     | LAB 1 - PC 11 |
-|     PC4     | LAB 1 - PC 12 |
--------------------------------
+                                                        ###Tabela 3: PC's físicos reservados para cada máquina
+                                                        -------------------------------
+                                                        |  DESCRICAO  |   PC FÍSICO   |
+                                                        -------------------------------
+                                                        |     PC1     | LAB 1 - PC 01 |
+                                                        |     PC2     | LAB 1 - PC 12 | 
+                                                        |     PC3     | LAB 1 - PC 08 |
+                                                        |     PC4     | LAB 1 - PC 14 |
+                                                        -------------------------------
 ```
