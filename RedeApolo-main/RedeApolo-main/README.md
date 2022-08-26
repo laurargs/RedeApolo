@@ -9,8 +9,8 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 |                    ALUNO                          |          E-MAIL          |
 |---------------------------------------------------|--------------------------|
 |[Laura Rafaelly](https://github.com/laurargs)      | lrgs1@aluno.ifal.edu.br  | 
-|[Jocineide](https://github.com/Jocineidebb)        | jbbs@aluno.ifal.edu.br   | 
-|[Rayane](https://github.com/Rayane012)             | raa@aluno.ifal.edu.br    | 
+|[Jocineide](https://github.com/Jocineidebb)        | jbbs2@aluno.ifal.edu.br   | 
+|[Rayane](https://github.com/Rayane012)             | raa5@aluno.ifal.edu.br    | 
 |[Kauan](https://github.com/kauan0nog)              | kna1@aluno.ifal.edu.br   | 
 
 # 
