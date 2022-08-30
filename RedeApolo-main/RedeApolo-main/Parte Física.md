@@ -9,5 +9,3 @@
 ''' Configuração de hardware das VMs: '''
 ![WhatsApp Image 2022-08-30 at 08 34 02](https://user-images.githubusercontent.com/97605797/187429519-7deeceb9-99f2-4e99-89f1-4ec0a7bd475c.jpeg)
 obs: todas as VMs seguiram a mesma configuração.
-
-![WhatsApp Image 2022-08-30 at 08 34 02](blob:https://web.whatsapp.com/1e0bbee7-19d0-40f2-898b-bf7a00de19cd.jpeg)
