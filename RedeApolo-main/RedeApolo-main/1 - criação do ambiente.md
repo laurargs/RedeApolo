@@ -16,7 +16,7 @@ Tendo o VirtualBox no computador o primeiro passo é criar o ambiente onde as MV
 
 Ao abrir o VirtualBox, o primeiro passo é importar a imagem, o arquivo .OVA é um formato de exportação de VM utilizado pelo VirtualBox.
 - Na pasta labredes, em images, em original, importar a imagem( seguindo a descrição da figura abaixo);
-- Caso não tenha adicionado em seu computador a imagem,[é necessário seguir este passo-a-passo:](https://github.com/alaelson/2022-924-notasdeaula/blob/main/Aula.924.2022.06.22.md)
+- Caso não tenha adicionado em seu computador a imagem, [é necessário seguir este passo-a-passo:](https://github.com/alaelson/2022-924-notasdeaula/blob/main/Aula.924.2022.06.22.md)
 ![WhatsApp Image 2022-08-30 at 10 29 16](https://user-images.githubusercontent.com/97605797/187450057-e0371d55-9474-486b-b1a1-0b050f06328e.jpeg)
 
 Após importar a imagem.
