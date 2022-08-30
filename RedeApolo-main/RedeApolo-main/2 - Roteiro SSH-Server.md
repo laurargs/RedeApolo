@@ -37,6 +37,8 @@ network:
 ```
 *  Após salvar o arquivo é necessário aplicar as configurações, com o **netplan apply**. Depois veja a configuração das interfaces com ***ifconfig -a***
 
+
+
 ```bash
 $ sudo netplan apply
 $ ifconfig -a
