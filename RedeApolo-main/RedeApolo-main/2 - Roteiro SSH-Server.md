@@ -13,7 +13,7 @@ cat /etc/netplan/01-netcfg.yaml
 ```
 - Após verificar a existência do arquivo netplan;
 
-### Na VM1-PC3
+### EXEMPLO EM UMA DAS VMs
 
 - instale as ferramentas de rede, com o comando:
 
