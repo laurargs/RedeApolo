@@ -3,6 +3,7 @@
 Antes de iniciar a configuração do ambiente de rede é necessário identificar a existência do Softeware VirtualBox, o qual estará contido as máquinas virtuais.
 Tendo o VirtualBox no computador o primeiro passo é criar o ambiente onde as MVs estarão.
 
-<img src="Captura de tela de 2022-08-23 16-34-07.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
+
 
 - Abrir o terminal do computador e logar no usuário redes;
+
