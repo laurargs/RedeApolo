@@ -8,4 +8,4 @@ Tendo o VirtualBox no computador o primeiro passo é criar o ambiente onde as MV
 - Abrir o terminal do computador e logar no usuário redes;
 
 <p><center>Figura: Topologia de Rede estrela, com oito VMs com suas NICs em modo BRIDGE</center></p>   
-<img src="Projeto/Figuras/fig1.jpeg" title="Figura 1: Topologia de Rede Estrela" width="1000" />
+<img src="Projeto/Figuras/fig1.png" title="Figura 1: Topologia de Rede Estrela" width="1000" />
