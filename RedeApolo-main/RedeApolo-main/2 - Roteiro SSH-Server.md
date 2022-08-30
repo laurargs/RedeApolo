@@ -35,12 +35,11 @@ network:
             dhcp4: false                  # dhcp4 false -> cliente DHCP está desabilitado, logo o utilizará o IP do campo 'addresses'
     version: 2
 ```
-*  Após salvar o arquivo é necessário aplicar as configurações, com o **netplan apply**. Depois veja a configuração das interfaces com ***ifconfig -a***
 
 -sigua o exemplo da figura abaixo:
 ![WhatsApp Image 2022-08-30 at 11 31 37](https://user-images.githubusercontent.com/97605797/187464670-d5f5ce22-6119-4872-818a-ad84e5dc0390.jpeg)
 
-
+*  Após salvar o arquivo é necessário aplicar as configurações, com o **netplan apply**. Depois veja a configuração das interfaces com ***ifconfig -a***
 ```bash
 $ sudo netplan apply
 $ ifconfig -a
