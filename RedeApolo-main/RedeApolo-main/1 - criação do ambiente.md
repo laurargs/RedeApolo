@@ -27,3 +27,5 @@ Após importar a imagem.
 
 
 ![Captura de tela de 2022-08-30 10-23-23](https://user-images.githubusercontent.com/97605797/187450003-f2cd1330-616d-4b9a-b2f8-af8490cf3128.png)
+
+[SEGUIR PARA O PRÓXIMO PASSO](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/2%20-%20Roteiro%20SSH-Server.md)
