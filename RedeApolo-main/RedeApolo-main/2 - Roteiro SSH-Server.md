@@ -85,4 +85,6 @@ sudo ufw status
 ```shell 
 sudo ufw enable
 ```
+[VOLTAR AO PASSO ANTERIOR](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/1%20-%20cria%C3%A7%C3%A3o%20do%20ambiente.md)
 
+[SEGUIR PARA O PRÓXIMO PASSO](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/1%20-%20cria%C3%A7%C3%A3o%20do%20ambiente.md)
