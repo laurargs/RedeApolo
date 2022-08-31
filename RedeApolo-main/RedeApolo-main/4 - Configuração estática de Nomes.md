@@ -2,8 +2,12 @@
 
 Agora é necessário configurar um serviço de nomes e configurar o hosts estáticos em etc 'etc/hosts'.
 
-- Usando o comando ``sudo nano /etc/hosts``, iremos editar o arquivo hosts em todas as VMs.
-- Deve-se usar as definições da [Tabela](https://github.com/laurargs/RedeApolo/blob/main/Tabela.md) adicionando os campos IP, hostname, FQDN e aliase.    
+- Primeiro, abrimos a máquina virtual a ser editada e fazemos login:
+Usuário da VM: administrador
+Senha da VM: adminifal
+- Depois, usando o comando ``sudo nano /etc/hosts``, iremos editar o arquivo hosts em todas as VMs.
+- Deve-se usar as definições da [Tabela](https://github.com/laurargs/RedeApolo/blob/main/Tabela.md) adicionando os campos IP, hostname, FQDN e aliase.  
+- Após editar, deve-se apertar as teclas 'Ctrl+x', apertar 'y' e apertar a tecla enter.   
 
 
 * Exemplo do arquivo /etc/hosts na VM1:
