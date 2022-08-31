@@ -18,7 +18,8 @@ Para isso, devemos fazer o login na VM;
 
 * Clicar na aba ``Servidor DHCP``
 
-FIGURA AQUI
+![img hostonly](https://user-images.githubusercontent.com/103062837/187699980-e3916248-ad4a-49ae-b9c2-0c001e56c284.jpeg)
+
 
 * Verificar a configuração das interfaces usando o ``Terminal``;
 
