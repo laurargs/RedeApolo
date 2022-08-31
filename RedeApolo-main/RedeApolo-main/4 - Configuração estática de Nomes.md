@@ -4,9 +4,9 @@ Agora é necessário configurar um serviço de nomes e configurar o hosts estát
 
 - Primeiro, abrimos a máquina virtual a ser editada e fazemos login:
 
-Usuário da VM: administrador
+*Usuário da VM:* administrador
 
-Senha da VM: adminifal
+*Senha da VM:* adminifal
 
 - Depois, usando o comando ``sudo nano /etc/hosts``, iremos editar o arquivo hosts em todas as VMs.
 - Deve-se usar as definições da [Tabela](https://github.com/laurargs/RedeApolo/blob/main/Tabela.md) adicionando os campos IP, hostname, FQDN e aliase.  
