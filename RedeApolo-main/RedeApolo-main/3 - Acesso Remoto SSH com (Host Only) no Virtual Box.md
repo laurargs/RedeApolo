@@ -56,6 +56,6 @@ ifconfig -a
 
 FIGURA AQUI
 
-[VOLTAR AO PASSO ANTERIOR](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/1%20-%20cria%C3%A7%C3%A3o%20do%20ambiente.md)
+[VOLTAR AO PASSO ANTERIOR](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/2%20-%20Roteiro%20SSH-Server.md)
 
-[SEGUIR PARA O PRÓXIMO PASSO](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/3%20-%20Acesso%20Remoto%20SSH%20com%20(Host%20Only)%20no%20Virtual%20Box.md)
+[SEGUIR PARA O PRÓXIMO PASSO](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/4%20-%20Configura%C3%A7%C3%A3o%20est%C3%A1tica%20de%20Nomes.md)
