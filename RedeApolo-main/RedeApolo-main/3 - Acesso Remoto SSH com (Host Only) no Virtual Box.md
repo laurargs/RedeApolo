@@ -9,14 +9,13 @@ Para isso, devemos fazer o login na VM;
 ```
 
 * Clique em ``Arquivo``->``Host Network Manager``;
+* * Clicar na aba ``Servidor DHCP``
 
 ![WhatsApp Image 2022-08-31 at 10 45 58](https://user-images.githubusercontent.com/103062837/187696296-59073236-b113-4045-83b7-f1c27414d1e0.jpeg)
 
 
 ### Configurando o servidor DHCP no adaptador VBoxNet0
 
-
-* Clicar na aba ``Servidor DHCP``
 
 ![img hostonly](https://user-images.githubusercontent.com/103062837/187699980-e3916248-ad4a-49ae-b9c2-0c001e56c284.jpeg)
 
