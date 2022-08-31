@@ -1,6 +1,7 @@
 # Acesso Remoto SSH com (Host Only) no Virtual Box:
 
 O primeiro passo é ativar ou criar uma interface no computador para estabelecer a comunicação entre o Host e a VM;
+
 Para isso, devemos fazer o login na VM;
 
 ```shell
