@@ -30,8 +30,6 @@ ifconfig -a       # verificar se existe a interface ``vboxnet0``
 
 * Para atribuir acesso a uma VM via rede pelo ``Terminal`` do host devemos adicionar um novo adapatador de rede à VM.
 
-FIGURA AQUI
-
 ### Ativando as configurações da Interface na VM para o servidor DHCP
 
 * Verificar as interfaces com ``ifconfig -a``
