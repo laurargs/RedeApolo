@@ -46,7 +46,9 @@ ifconfig -a       # verificar se existe a interface ``enp0s8``
 sudo nano /etc/netplan/01-netcfg.yaml
 ```
 
-FIGURA AQUI
+![3c4dfc91-8b2a-420a-ab27-29d7e8fad921 (2)](https://user-images.githubusercontent.com/103062837/187697733-5bcb92b5-012f-445b-8e6b-7695b6b2e64b.jpeg)
+
+
 
 * Ativando as configurações e verificando se foi atribuido o IP na nova interface de rede:
 
@@ -55,7 +57,8 @@ sudo netplan apply
 ifconfig -a
 ```
 
-FIGURA AQUI
+![ef12f4ee-07f1-4279-85e8-762290f7a044](https://user-images.githubusercontent.com/103062837/187697894-ffc93842-33f0-489b-8de8-64c29edc9178.jpeg)
+
 
 [VOLTAR AO PASSO ANTERIOR](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/2%20-%20Roteiro%20SSH-Server.md)
 
