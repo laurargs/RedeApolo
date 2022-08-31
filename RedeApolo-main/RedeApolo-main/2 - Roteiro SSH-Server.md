@@ -48,16 +48,18 @@ $ ifconfig -a
 ### Atribuir nomes aos servidores hostname:
 
 O próximo passo é difinir os hostnames aos servidores, sendo assim, deve-se seguir os hostnames atribuidos na [Tabela](https://github.com/laurargs/RedeApolo/blob/main/Tabela.md) adicionada.
-- formato: ``sudo hostnamectl set-hostname <hostname>``
+- deve-se seguir o formato: ``sudo hostnamectl set-hostname <hostname>``
 
-* Exemplo: na VM1-PC1 executar:
+* Exemplo: na VM1-PC1 executar o seguinte comando:
 ```shell
 sudo hostnamectl set-hostname srv-vm1-pc1
 ```
 
-- Fazer o mesmo nas outras VMs, seguindo as definições de nomes da tabela.
+- Fazer o mesmo nas outras VMs, seguindo as definições de nomes da [Tabela](https://github.com/laurargs/RedeApolo/blob/main/Tabela.md) adicionada.
 
 ### Instale o SSH Server
+
+Agora deve-se instalar o protocolo SSH, seguindo o comando abaixo.
 
 ```shell
 systemctl status ssh
