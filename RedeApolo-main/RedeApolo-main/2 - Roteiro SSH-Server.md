@@ -29,10 +29,10 @@ $ sudo nano /etc/netplan/01-netcfg.yaml
 ```
 network:
     ethernets:
-        enp0s3:                           # nome da interface que está sendo configurada. Verifique com o comando 'ifconfig -a'
+        enp0s3:                              # nome da interface que está sendo configurada. Verifique com o comando 'ifconfig -a'
             addresses: [192.168.24.19/28]    # IP e Máscara do Host.
             gateway4: 192.168.24.30          # IP do Gateway
-            dhcp4: false                  # dhcp4 false -> cliente DHCP está desabilitado, logo o utilizará o IP do campo 'addresses'
+            dhcp4: false                     # dhcp4 false -> cliente DHCP está desabilitado, logo o utilizará o IP do campo 'addresses'
     version: 2
 ```
 
