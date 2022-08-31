@@ -12,7 +12,7 @@ Para isso, devemos fazer o login na VM;
 
 FIGURA AQUI
 
-## Configurando o servidor DHCP no adaptador VBoxNet0
+### Configurando o servidor DHCP no adaptador VBoxNet0
 
 
 * Clicar na aba ``Servidor DHCP``
@@ -25,10 +25,10 @@ FIGURA AQUI
 ifconfig -a       # verifica se existe a interface ``vboxnet0``
 ```
 
-## Adicionando um adaptador (HostOnly) em uma VM
+### Adicionando um adaptador (HostOnly) em uma VM
 
 * Para atribuir acesso a uma VM via rede pelo ``Terminal`` do host devemos adicionar um novo adapatador de rede à VM.
 
 FIGURA AQUI
 
-## Ativando as configurações da Interface na VM para o servidor DHCP
+### Ativando as configurações da Interface na VM para o servidor DHCP
