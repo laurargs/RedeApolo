@@ -8,7 +8,7 @@ Agora é necessário configurar um serviço de nomes e configurar o hosts estát
 
 * Exemplo do arquivo /etc/hosts na VM1:
 
-
+![Configuração estática de nomes](https://user-images.githubusercontent.com/103062837/187730708-8a921f6a-0616-4393-80ef-c7a371aa31a9.png)
 
 
 
