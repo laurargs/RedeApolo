@@ -2,10 +2,11 @@
 
 
 O primeiro passo é abrir as VMs e logar no usuário administrador;
+
 Após isso, fazemos a configuração estática de endereço IP na interface de rede;
 
 - O Ubuntu utilizará o arquivo YAML para configurar as interfaces, este arquivo está '/etc/netplan'
-- para verificar digite:
+- Para verificar, digite:
 ```shell
 ifconfig -a
 ls -la /etc/netplan
