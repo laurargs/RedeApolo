@@ -24,4 +24,6 @@ Figura 6: A imagem mostra o teste de SSH para o IP 192.168.24.22 do VM6-PC3
 
 ![88399f4c-8f49-4289-a72b-b0d284914750](https://user-images.githubusercontent.com/103062837/187747812-213c4e7b-fa94-428b-88f7-755b99b8ebc2.jpeg)
 
+Figura 7: A imagem mostra o teste de SSH para o IP 192.168.24.23 do VM7-PC4
 
+![4ce5b7ca-8ce0-44f3-939d-1907099e6f39](https://user-images.githubusercontent.com/103062837/187967206-f0ce6071-a5a5-442d-ac82-da1cb6a24f96.jpeg)
