@@ -2,6 +2,9 @@
 # teste ping usando Hostname
 
 
+- Neste arquivo é feito o ping usando o endereço HOSTNAME.
+- Seguindo esta sintaxe:  $ ping ``<HOSTNAME>``.
+
 Figura 1: Ping feito do usuário administrador para os hostnames da máquina 1.
 ![WhatsApp Image 2022-09-01 at 13 37 12](https://user-images.githubusercontent.com/97605797/187968547-330a37a8-fe5f-410e-afbe-125d0ef36b5d.jpeg)
 
@@ -15,4 +18,4 @@ Figura 4: Ping feito do usuário administrador para os hostnames da máquina 4.
 ![WhatsApp Image 2022-09-01 at 13 35 25](https://user-images.githubusercontent.com/97605797/187968512-132cddeb-aed1-47a4-b123-e151e53f0b60.jpeg)
 
 
-[VOLTAR A PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
+[VOLTE À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
