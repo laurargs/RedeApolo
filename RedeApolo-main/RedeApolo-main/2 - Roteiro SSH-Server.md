@@ -39,7 +39,7 @@ network:
 
 -Siga o exemplo da figura abaixo:
 
-Figura 1: 
+Figura 1: Configuração da interface de rede e habilitação do dhcp4.
 
 ![WhatsApp Image 2022-08-30 at 11 31 37](https://user-images.githubusercontent.com/97605797/187464670-d5f5ce22-6119-4872-818a-ad84e5dc0390.jpeg)
 
