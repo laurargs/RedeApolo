@@ -1,2 +1,2 @@
 
-# teste ping usando FGDN
+# teste ping usando FQDN
