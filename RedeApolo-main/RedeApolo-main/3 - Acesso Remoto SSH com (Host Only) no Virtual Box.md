@@ -11,11 +11,14 @@ Para isso, devemos fazer o login na VM;
 * Clique em ``Arquivo``->``Host Network Manager``;
 * * Clicar na aba ``Servidor DHCP``
 
+Figura 1: 
+
 ![WhatsApp Image 2022-08-31 at 10 45 58](https://user-images.githubusercontent.com/103062837/187696296-59073236-b113-4045-83b7-f1c27414d1e0.jpeg)
 
 
 ### Configurando o servidor DHCP no adaptador VBoxNet0
 
+Figura 2:
 
 ![img hostonly](https://user-images.githubusercontent.com/103062837/187699980-e3916248-ad4a-49ae-b9c2-0c001e56c284.jpeg)
 
@@ -43,6 +46,7 @@ ifconfig -a       # verificar se existe a interface ``enp0s8``
 ```shell
 sudo nano /etc/netplan/01-netcfg.yaml
 ```
+Figura 3: 
 
 ![3c4dfc91-8b2a-420a-ab27-29d7e8fad921 (2)](https://user-images.githubusercontent.com/103062837/187697733-5bcb92b5-012f-445b-8e6b-7695b6b2e64b.jpeg)
 
@@ -54,6 +58,7 @@ sudo nano /etc/netplan/01-netcfg.yaml
 sudo netplan apply
 ifconfig -a
 ```
+Figura 4:
 
 ![ef12f4ee-07f1-4279-85e8-762290f7a044](https://user-images.githubusercontent.com/103062837/187697894-ffc93842-33f0-489b-8de8-64c29edc9178.jpeg)
 
