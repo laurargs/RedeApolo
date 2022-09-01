@@ -23,7 +23,7 @@ Figura 4: A imagem mostra o teste de SSH para o FQDN da VM8-PC4
 
 Figura 5: A imagem mostra o teste de SSH para o FQDN da VM8-PC4
 
-![cd5c3856-363f-447b-a5f6-fe9aadce16f9](https://user-images.githubusercontent.com/103062837/187968789-0f7af9e1-9b54-4f2d-9784-a885469f9c3b.jpeg)
+![9de97a2c-77a6-4f88-8774-270e631a5d6e](https://user-images.githubusercontent.com/103062837/187979496-44b23e81-5bf3-4cd5-9953-f6b92c5d6a6c.jpeg)
 
 [VOLTAR À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
 
