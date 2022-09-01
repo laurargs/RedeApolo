@@ -1,6 +1,10 @@
 
 # Teste SSH usando aliase
 
+- Fazendo o acesso remotamente usando o protocolo SSH com os endereços aliase.
+- Seguindo esta sintaxe: $ ssh <user>@<aliase>.
+
+
 Figura 1: A imagem mostra o teste de SSH para a ALIASE da VM1-PC1.
 
 ![0dd88214-dff5-4b7f-b63f-320488829454](https://user-images.githubusercontent.com/103062837/187968397-a110a6f3-c88f-473e-ba18-18885dff55f8.jpeg)
@@ -32,3 +36,6 @@ Figura 7: A imagem mostra o teste de SSH para a ALIASE da VM7-PC4.
 Figura 8: A imagem mostra o teste de SSH para a ALIASE da VM8-PC4.
 
 ![6d6720ce-991d-45ae-9e25-67757dc0c333](https://user-images.githubusercontent.com/103062837/187972103-a939b85a-9474-4f41-bef9-879df359fbf6.jpeg)
+  
+  
+  [VOLTAR A PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
