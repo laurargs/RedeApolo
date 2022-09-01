@@ -18,6 +18,7 @@ Figura 1:
 
 ### Configurando o servidor DHCP no adaptador VBoxNet0
 
+
 Figura 2: Configuração do servidor DHCP, ativando o adaptador 2.
 
 ![img hostonly](https://user-images.githubusercontent.com/103062837/187699980-e3916248-ad4a-49ae-b9c2-0c001e56c284.jpeg)
@@ -46,7 +47,7 @@ ifconfig -a       # verificar se existe a interface ``enp0s8``
 ```shell
 sudo nano /etc/netplan/01-netcfg.yaml
 ```
-Figura 3: 
+Figura 3: Verificação da interface.
 
 ![3c4dfc91-8b2a-420a-ab27-29d7e8fad921 (2)](https://user-images.githubusercontent.com/103062837/187697733-5bcb92b5-012f-445b-8e6b-7695b6b2e64b.jpeg)
 
