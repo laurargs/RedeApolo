@@ -59,7 +59,7 @@ Figura 3: Verificação da interface.
 sudo netplan apply
 ifconfig -a
 ```
-Figura 4:
+Figura 4: Verificando se foi atribuido o IP na nova interface de rede.
 
 ![ef12f4ee-07f1-4279-85e8-762290f7a044](https://user-images.githubusercontent.com/103062837/187697894-ffc93842-33f0-489b-8de8-64c29edc9178.jpeg)
 
