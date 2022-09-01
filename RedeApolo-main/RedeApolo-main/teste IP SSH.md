@@ -1,14 +1,14 @@
 # Teste do SSH com IP
 
-Figura 1: A imagem mostra o teste de SSH para o IP 192.168.24.17 do PC1-VM1
+Figura 1: A imagem mostra o teste de SSH para o IP 192.168.24.17 do VM1-PC1
 
 ![a9d879a0-69d2-49b2-9462-5568c16c8bd5](https://user-images.githubusercontent.com/103062837/187747326-55f758e7-5f2a-4680-b5b0-83cda03c4261.jpeg)
 
-Figura 2: A imagem mostra o teste de SSH para o IP 192.168.24.18 do PC1-VM1
+Figura 2: A imagem mostra o teste de SSH para o IP 192.168.24.18 do VM2-PC1
 
 ![75bcae9c-7ae9-44d7-ac96-2910e7be52ef](https://user-images.githubusercontent.com/103062837/187747350-3a7f6e4b-bb96-47bf-a4e8-d892eda73f94.jpeg)
 
-Figura 3: A imagem mostra o teste de SSH para o IP 192.168.24.19 do PC1-VM1
+Figura 3: A imagem mostra o teste de SSH para o IP 192.168.24.19 do VM3-PC2
 
 ![22075c42-6706-488a-a3be-187e4cfb16cb](https://user-images.githubusercontent.com/103062837/187747690-51573c72-17b0-4829-b308-e1d24524964d.jpeg)
 
