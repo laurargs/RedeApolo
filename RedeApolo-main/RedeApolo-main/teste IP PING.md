@@ -1,5 +1,9 @@
 # Teste ping usando IP
 
+- Neste arquivo é feito o ping usando o endereço IP.
+- Seguindo esta sintaxe:  $ ping ``<IP>``.
+
+
 - Nesta parte é feita a o ping usando os endereços IP, do usuário Kauan para todos os endereços;
 
 Figura 1: ping do usuário kauan para os IPs 192.168.24.(17 ao 20).
@@ -12,4 +16,4 @@ Figura 2: ping do usuário kauan para os IPs 192.168.24.(21 ao 24).
 
 ![WhatsApp Image 2022-09-01 at 14 05 37](https://user-images.githubusercontent.com/97605797/187972219-c879e727-70f7-4e83-b77c-4c918853263f.jpeg)
 
-[VOLTAR A PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
+[VOLTE À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
