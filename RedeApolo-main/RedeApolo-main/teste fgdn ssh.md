@@ -1,7 +1,7 @@
 
 # teste SSH usando FQDN
 
-Figura 1: A imagem mostra o teste de SSH para o FQDN da VM1-PC1
+Figura 1: A imagem mostra o teste de SSH para o FQDN da VM2-PC1
 
 ![96ba6a7d-b08e-45cf-811a-d173a1df30f0](https://user-images.githubusercontent.com/103062837/187974937-0046c94d-84c9-4003-9af8-c908913b5ff8.jpeg)
 
