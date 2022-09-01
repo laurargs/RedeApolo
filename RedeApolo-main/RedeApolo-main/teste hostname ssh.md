@@ -1,6 +1,9 @@
 
 # Teste SSH usando hostname 
 
+- Fazendo o acesso remotamente usando o protocolo SSH com endereço hostname.
+- Seguindo esta sintaxe:  $ ssh ``<user>``@``<Hostname>``.
+
 vm1
 
 Figura 2: A imagem mostra o ssh realizado para o HOSTNAME da VM2-PC1.
