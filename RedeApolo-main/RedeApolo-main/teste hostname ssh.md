@@ -35,3 +35,6 @@ Figura 7: A imagem mostra o ssh realizado para o HOSTNAME da VM7-PC4.
 Figura 8: A imagem mostra o ssh realizado para o HOSTNAME da VM8-PC4.
 
 ![41bd8bbd-b288-4bfe-8f84-757efede9242](https://user-images.githubusercontent.com/103062837/187969217-cfaf3e67-8208-408f-adc1-db797dccc989.jpeg)
+
+
+[VOLTAR À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
