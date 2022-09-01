@@ -1,4 +1,6 @@
 # Teste do SSH com IP
+- Fazendo o acesso remotamente usando o protocolo SSH com endereço IP.
+- Seguindo esta sintaxe:  $ ssh ``<user>``@``<ipServidorRemoto>``.
 
 Figura 1: A imagem mostra o teste de SSH para o IP 192.168.24.17 da VM1-PC1
 
