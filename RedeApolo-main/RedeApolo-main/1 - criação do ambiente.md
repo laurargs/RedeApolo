@@ -29,7 +29,7 @@ Após importar a imagem.
 - Gerar novos endereços físicos é fundamental para criar uma máquina diferente da outra. Dessa forma é necessário, em política de endereço MEC, selecionar a opção: gerar novos endereços MEC para todas as placas de rede;
 - Depois de clicar na opção 'importar', a máquina será criada.
 
-Figura 3: 
+Figura 3: Criação da máquina virtual.
 
 ![Captura de tela de 2022-08-30 10-23-23](https://user-images.githubusercontent.com/97605797/187450003-f2cd1330-616d-4b9a-b2f8-af8490cf3128.png)
 
