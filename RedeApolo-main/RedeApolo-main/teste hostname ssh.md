@@ -4,7 +4,9 @@
 - Fazendo o acesso remotamente usando o protocolo SSH com endereço hostname.
 - Seguindo esta sintaxe:  $ ssh ``<user>``@``<Hostname>``.
 
-vm1
+Figura 1: A imagem mostra o ssh realizado para o HOSTNAME da VM1-PC1.
+
+![645cf73f-be15-438c-9c7e-10297ff41593](https://user-images.githubusercontent.com/103062837/187977229-2697e5c7-98f1-4742-925e-032650d85333.jpeg)
 
 Figura 2: A imagem mostra o ssh realizado para o HOSTNAME da VM2-PC1.
 
