@@ -17,5 +17,5 @@ Figura 1: Ping feito do usuário administrador para os endereços aliase da máq
 ![WhatsApp Image 2022-09-01 at 10 56 43](https://user-images.githubusercontent.com/97605797/187969035-a5363db1-5847-41ba-87a9-abeddaf7259c.jpeg)
 
 
-[VOLTAR À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
+[VOLTE À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
 
