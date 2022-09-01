@@ -1,11 +1,15 @@
 
 # teste SSH usando FQDN
+-Fazendo o acesso remotamente usando o protocolo SSH com os endereços FQDN .
+-Seguindo esta sintaxe: $ ssh <user>@<FQDN>.
 
-Figura 1: A imagem mostra o teste de SSH para o FQDN da VM2-PC1
+
+
+Figura 1: A imagem mostra o teste de SSH para o FQDN da VM1-PC1
 
 ![96ba6a7d-b08e-45cf-811a-d173a1df30f0](https://user-images.githubusercontent.com/103062837/187974937-0046c94d-84c9-4003-9af8-c908913b5ff8.jpeg)
 
-Figura 1: A imagem mostra o teste de SSH para o FQDN da VM3-PC2
+Figura 1: A imagem mostra o teste de SSH para o FQDN da VM2-PC1
 
 ![182b99e3-1b8c-4ceb-befc-419fda761fba](https://user-images.githubusercontent.com/103062837/187975102-f06490af-03df-451d-ac6d-a7a97ad15e82.jpeg)
 
