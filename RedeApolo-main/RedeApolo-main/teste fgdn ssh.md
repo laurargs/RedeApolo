@@ -1,7 +1,9 @@
 
 # teste SSH usando FQDN
 
+![61d09dd0-40a0-45c3-8291-acef51f948bb](https://user-images.githubusercontent.com/103062837/187971374-d2285b71-18c4-402b-8dfe-f40242dab284.jpeg)
 
+![62f3fe34-08ec-4fd6-ab35-0a9519d04e75](https://user-images.githubusercontent.com/103062837/187971386-faf69645-91df-42c7-84ac-eab8fcf1bd2a.jpeg)
 
 ![b5777a8c-2374-4371-9604-b3e04c64336e](https://user-images.githubusercontent.com/103062837/187970916-a8875e15-855b-4364-9dff-9de6bff0d51e.jpeg)
 
