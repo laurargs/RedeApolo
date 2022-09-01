@@ -2,6 +2,7 @@
 # Teste ping usando aliase
 
 - Neste arquivo é feito o ping usando o endereço aliase.
+- Seguindo esta sintaxe:  $ ping ``<aliase>``.
 
 Figura 1: Ping feito do usuário administrador para os endereços aliase da máquina 1.
 ![WhatsApp Image 2022-09-01 at 13 33 40](https://user-images.githubusercontent.com/97605797/187969032-1e86b22a-dcf7-4860-bf97-708bbc845bd5.jpeg)
