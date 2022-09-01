@@ -18,7 +18,7 @@ Figura 1:
 
 ### Configurando o servidor DHCP no adaptador VBoxNet0
 
-Figura 2:
+Figura 2: Configuração do servidor DHCP, ativando o adaptador 2.
 
 ![img hostonly](https://user-images.githubusercontent.com/103062837/187699980-e3916248-ad4a-49ae-b9c2-0c001e56c284.jpeg)
 
