@@ -18,6 +18,7 @@ Figura 4: A imagem mostra o ssh realizado para o HOSTNAME do VM4-PC2.
 Figura 5: A imagem mostra o ssh realizado para o HOSTNAME do VM5-PC3.
 
 ![e0609cb1-ae2b-462a-be68-41005fd0fd44](https://user-images.githubusercontent.com/103062837/187969389-23ebea06-e813-4a00-876a-1d194966dc88.jpeg)
+
 Figura 6: A imagem mostra o ssh realizado para o HOSTNAME do VM6-PC3.
 
 ![0fcae984-8002-4739-8fa1-b48a660ececa](https://user-images.githubusercontent.com/103062837/187969431-30d8dc5c-c4d3-4640-917e-9e1e442c2882.jpeg)
