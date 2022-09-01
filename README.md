@@ -13,8 +13,8 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 |                    ALUNO                          |          E-MAIL          |
 |---------------------------------------------------|--------------------------|
 |[Laura Rafaelly](https://github.com/laurargs)      | lrgs1@aluno.ifal.edu.br  | 
-|[Jocineide](https://github.com/Jocineidebb)        | jbbs2@aluno.ifal.edu.br   | 
-|[Rayane](https://github.com/Rayane012)             | raa5@aluno.ifal.edu.br    | 
+|[Jocineide](https://github.com/Jocineidebb)        | jbbs2@aluno.ifal.edu.br  | 
+|[Rayane](https://github.com/Rayane012)             | raa5@aluno.ifal.edu.br   | 
 |[Kauan](https://github.com/kauan0nog)              | kna1@aluno.ifal.edu.br   | 
 
 # 
@@ -24,6 +24,7 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 - [Tabelas de definições de nomes e IPs para todas as VMs](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Tabelas.md)
 - [Topologia de Rede](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Topologia%20de%20Rede.md)
 - [Topologia Física](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Parte%20F%C3%ADsica.md)
+- [Tabelas](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/Tabelas.md)
 
 #
 
