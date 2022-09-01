@@ -1,1 +1,2 @@
 
+# teste SSH usando aliase
