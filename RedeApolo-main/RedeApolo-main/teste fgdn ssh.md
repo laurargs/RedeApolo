@@ -1,7 +1,7 @@
 
 # teste SSH usando FQDN
--Fazendo o acesso remotamente usando o protocolo SSH com os endereços FQDN .
--Seguindo esta sintaxe: $ ssh ``<user>``@``<FQDN>``.
+- Fazendo o acesso remotamente usando o protocolo SSH com os endereços FQDN.
+- Seguindo esta sintaxe: $ ssh ``<user>``@``<FQDN>``.
 
 
 
