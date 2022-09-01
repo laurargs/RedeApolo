@@ -1,7 +1,7 @@
 
 # teste SSH usando FQDN
 -Fazendo o acesso remotamente usando o protocolo SSH com os endereços FQDN .
--Seguindo esta sintaxe: $ ssh <user>@<FQDN>.
+-Seguindo esta sintaxe: $ ssh ``<user>``@``<FQDN>``.
 
 
 
@@ -24,4 +24,6 @@ Figura 4: A imagem mostra o teste de SSH para o FQDN da VM8-PC4
 Figura 5: A imagem mostra o teste de SSH para o FQDN da VM8-PC4
 
 ![cd5c3856-363f-447b-a5f6-fe9aadce16f9](https://user-images.githubusercontent.com/103062837/187968789-0f7af9e1-9b54-4f2d-9784-a885469f9c3b.jpeg)
+
+[VOLTAR À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
 
