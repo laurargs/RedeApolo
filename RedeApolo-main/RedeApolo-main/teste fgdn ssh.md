@@ -1,5 +1,5 @@
 
-# teste SSH usando FGDN
+# teste SSH usando FQDN
 
 
 
