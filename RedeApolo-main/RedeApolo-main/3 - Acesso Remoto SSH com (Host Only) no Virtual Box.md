@@ -11,7 +11,7 @@ Para isso, devemos fazer o login na VM;
 * Clique em ``Arquivo``->``Host Network Manager``;
 * * Clicar na aba ``Servidor DHCP``
 
-Figura 1: 
+Figura 1: Configuração do servidor DHCP.
 
 ![WhatsApp Image 2022-08-31 at 10 45 58](https://user-images.githubusercontent.com/103062837/187696296-59073236-b113-4045-83b7-f1c27414d1e0.jpeg)
 
