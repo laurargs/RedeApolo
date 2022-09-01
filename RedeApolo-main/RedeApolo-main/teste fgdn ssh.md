@@ -15,7 +15,7 @@ Figura 2: A imagem mostra o teste de SSH para o FQDN da VM2-PC1
 
 Figura 3: A imagem mostra o teste de SSH para o FQDN da VM5-PC3
 
-![9d8c5075-66a5-4823-8dc0-985c75ad7024](https://user-images.githubusercontent.com/103062837/187975916-ee6af1b5-2db0-4713-9baa-0ed1b88527c9.jpeg)
+![c4bd1d71-d01d-49b1-9a34-afd14386a245](https://user-images.githubusercontent.com/103062837/187979263-e05236e2-a06d-41a6-ac2a-c9c85de71fe1.jpeg)
 
 Figura 4: A imagem mostra o teste de SSH para o FQDN da VM8-PC4
 
