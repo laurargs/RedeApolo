@@ -16,7 +16,7 @@ cat /etc/netplan/01-netcfg.yaml
 
 ### EXEMPLO EM UMA DAS VMs
 
-- instale as ferramentas de rede, com o comando:
+- Instale as ferramentas de rede, com o comando:
 
 ```bash
 $ sudo apt install net-tools -y
