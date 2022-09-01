@@ -2,7 +2,7 @@
 # Teste SSH usando aliase
 
 - Fazendo o acesso remotamente usando o protocolo SSH com os endereços aliase.
-- Seguindo esta sintaxe: $ ssh <user>@<aliase>.
+- Seguindo esta sintaxe: $ ssh ``<user>``@``<aliase>``.
 
 
 Figura 1: A imagem mostra o teste de SSH para a ALIASE da VM1-PC1.
