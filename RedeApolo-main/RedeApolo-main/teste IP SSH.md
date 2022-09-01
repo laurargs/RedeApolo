@@ -29,3 +29,5 @@ Figura 6: A imagem mostra o teste de SSH para o IP 192.168.24.22 da VM6-PC3
 Figura 7: A imagem mostra o teste de SSH para o IP 192.168.24.23 da VM7-PC4
 
 ![4ce5b7ca-8ce0-44f3-939d-1907099e6f39](https://user-images.githubusercontent.com/103062837/187967206-f0ce6071-a5a5-442d-ac82-da1cb6a24f96.jpeg)
+
+[VOLTAR À PÁGINA DE TESTES](https://github.com/laurargs/RedeApolo/blob/main/RedeApolo-main/RedeApolo-main/testes.md)
