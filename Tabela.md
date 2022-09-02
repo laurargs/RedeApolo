@@ -1,6 +1,6 @@
                               Tabela: Definições de endereços IPs da Rede e Nomes de Hosts
                               ---------------------------------------------------------------------------------------------------------------------
-                              |  DESCRICAO  |  IP               |   hostname        |          FQDN                 |  aliase     |   Gateway      |
+                              |  DESCRICAO  |  IP               |   hostname        |          FQDN                 |  alias      |   Gateway      |
                               ---------------------------------------------------------------------------------------------------------------------
                               | VM1-PC1     | 192.168.24.17     |   srv-vm1-pc1     | ravena.grupo2-924.ifalara.net |  vogal      | 192.168.24.30  |
                               | VM2-PC1     | 192.168.24.18     |   srv-vm2-pc1     | ravena.grupo2-924.ifalara.net |  vogale     |                |
